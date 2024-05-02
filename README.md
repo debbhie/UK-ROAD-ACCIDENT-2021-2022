@@ -44,6 +44,9 @@ These processes were carried out using power query
 * Dates were changed to united kingdom format
 * There were no null values as such nothing in the data set was replaced or removed
 
+![uk road ss2](https://github.com/debbhie/UK-ROAD-ACCIDENT-2021-2022/assets/161854079/12e90667-2de4-4d5a-9d8a-2f04849318ab)
+
+
 ### PRIMARY KPIS
 * Total Caualties: The total number of casualties over the two-year period is 417,882. In 2021, the number of casualties was 222,145 and in 2022 it reduced to 195,737
 
@@ -86,6 +89,7 @@ Csualties with respect to vehicle type
 
   DATA VISUALIZATION
   
+![uk road ss](https://github.com/debbhie/UK-ROAD-ACCIDENT-2021-2022/assets/161854079/28bfe5c1-f95f-4233-83a7-e8aaf37632ac)
 
 ## INSIGHTS
 * OVERALL DECLINE IN TOTAL CASUALTIES: The total number of casualties decreased from 222,145 in 2021 to 195,737 in 2022, indicating a positive trend in road safety efforts or chaanges in driving behavior.

@@ -14,7 +14,7 @@
 
 
 ## UNITED KINGDOM ROAD ACCIDENT 2021 AND 2022 OVERVIEW
-The dashboard provides a comprehensive analysis of road accidents in the United Kingdom for the year 2021 and 2022. Key performance indeicators (KPIS) such as total casualties, casualties by accident severity, casualties by vehicle type are analyzed to gain insight into road safety and accident prevention measures.
+The dashboard provides a comprehensive analysis of road accidents in the United Kingdom for the year 2021 and 2022. Key performance indicators (KPIS) such as total casualties, casualties by accident severity, casualties by vehicle type are analyzed to gain insight into road safety and accident prevention measures.
 
 ## DATA SOURCE
 The primary data set is gotten from google

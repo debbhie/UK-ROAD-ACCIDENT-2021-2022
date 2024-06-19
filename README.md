@@ -1,16 +1,16 @@
 # UK-ROAD-ACCIDENT-2021-2022
 
 ## TABLE OF CONTENT
-- [UNITED KINGDOM ROAD ACCIDENT 2021 AND 2022 OVERVIEW](united-kingdom-road-accident-2021-and-2022)
-- [DATA SOURCE](data-source)
-- [TOOLS](tools)
-- [EXPLORATORY DATA ANALYSIS](exploratory-data-analysis)
-- [DATA ANALYSIS](data-analysis)
-- [DATA VISUALIZATION](data-visualization)
-- [INSIGHTS](insights)
-- [RECOMMENDATIONS](recommendations)
-- [LIMITATIONS IN THE DATASET](limitations-in-the-dataset)
-- [RECOMMENDATIONS FOR LIMITATIONS IN THE DATASET](recommendations-for-limitations-in-the-dataset)
+- [UNITED KINGDOM ROAD ACCIDENT 2021 AND 2022 OVERVIEW](#united-kingdom-road-accident-2021-and-2022)
+- [DATA SOURCE](#data-source)
+- [TOOLS](#tools)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+- [DATA ANALYSIS](#data-analysis)
+- [DATA VISUALIZATION](#data-visualization)
+- [INSIGHTS](#insights)
+- [RECOMMENDATIONS](#recommendations)
+- [LIMITATIONS IN THE DATASET](#limitations-in-the-dataset)
+- [RECOMMENDATIONS FOR LIMITATIONS IN THE DATASET](#recommendations-for-limitations-in-the-dataset)
 
 
 ## UNITED KINGDOM ROAD ACCIDENT 2021 AND 2022 OVERVIEW
